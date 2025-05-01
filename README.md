@@ -1,6 +1,6 @@
 USAGE:
 
-Place __init__.py and api.py into a folder named 'cherami' in your python project.
+Place `__init__.py` and `api.py` into a folder named `cherami` in your python project.
 
 Then within your code, use it as such:
 
